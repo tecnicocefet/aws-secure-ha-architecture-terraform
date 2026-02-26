@@ -1,0 +1,47 @@
+# =========================
+# Terraform local state
+# =========================
+terraform.tfstate
+terraform.tfstate.*
+*.tfstate
+*.tfstate.backup
+
+# =========================
+# Variáveis sensíveis
+# =========================
+*.tfvars
+
+
+# =========================
+# Terraform cache
+# =========================
+.terraform/
+.terraform.lock.hcl
+
+# =========================
+# Plan files
+# =========================
+plan.out
+*.tfplan
+
+# =========================
+# Crash logs
+# =========================
+crash.log
+
+# =========================
+# Editor / sistema
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# VSCode
+.vscode/
+
+# =========================
+# SSH keys (se houver)
+# =========================
+*.pem
+*.key

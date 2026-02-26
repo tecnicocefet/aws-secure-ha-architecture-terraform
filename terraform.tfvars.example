@@ -1,0 +1,3 @@
+my_ip_cidr  = "177.142.177.114/32"
+key_name    = "terraform"
+db_password = "UmaSenhaForte123!"

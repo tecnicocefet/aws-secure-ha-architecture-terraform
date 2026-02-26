@@ -18,9 +18,6 @@ O objetivo é demonstrar domínio prático em:
 * Remote state e locking profissional
 
 ---
-1️⃣ Vê o desenho
-2️⃣ Lê o fluxo
-3️⃣ Depois vê o código
 
 ## 📐 Arquitetura provisionada
 
@@ -105,7 +102,7 @@ export AWS_REGION=us-east-1
 ### 2. Clonar repositório
 
 ```bash
-git clone <repo>
+git clone https://github.com/tecnicocefet/aws-secure-ha-architecture-terraform
 cd aws-arquitetura-completa
 ```
 
